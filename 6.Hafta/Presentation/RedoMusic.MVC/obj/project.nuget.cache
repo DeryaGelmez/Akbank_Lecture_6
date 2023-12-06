@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZxqMdTq8Ai0wObGCChg7IxdpD5M2Jv8fubGOeK63xhOTFZRCNQheQepLgEK1MUODkIGoX/hhQAfnoXtEhmMwWA==",
+  "dgSpecHash": "gXbeUDbIbRauuGjDNppvC64fARJPayVCt98MyjUXbZnxW39Dnk2GT2j4VXnwKPapuvTZ16PoWb9sDKsyFCemuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\derya\\Desktop\\0612\\6.Hafta\\Presentation\\RedoMusic.MVC\\RedoMusic.MVC.csproj",
+  "projectFilePath": "C:\\Users\\derya\\Documents\\GitHub\\Akbank_Lecture_6\\6.Hafta\\Presentation\\RedoMusic.MVC\\RedoMusic.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\derya\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\derya\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",

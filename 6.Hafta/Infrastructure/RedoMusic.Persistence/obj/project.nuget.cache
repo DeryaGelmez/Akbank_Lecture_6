@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4SHHHFdF6HVeX/s3jshqS3aMuCEMkDcPRLFcKzgYbS+E4eUfUOf9w52NWJ/pk586fHzXUXGPITUyeGabvhxlog==",
+  "dgSpecHash": "SaexBPjcDYqESwFfWzxvZrqi8OsZXmdHPo4UtCAw7KlFlli/+UhTESBVehErwrKmZKg8pDXbSZy/3N6EkHu/dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\derya\\Desktop\\0612\\6.Hafta\\Infrastructure\\RedoMusic.Persistence\\RedoMusic.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\derya\\Documents\\GitHub\\Akbank_Lecture_6\\6.Hafta\\Infrastructure\\RedoMusic.Persistence\\RedoMusic.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\derya\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\derya\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",

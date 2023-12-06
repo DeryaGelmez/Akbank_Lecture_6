@@ -1,14 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 using ReDoMusic.Domain.Common;
-using ReDoMusic.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using RedoMusic.Persistence;
 
-namespace RedoMusic.Persistence.Contexts
+using System.Diagnostics.Metrics;
+
+namespace Week_6_4.Persistence.Contexts
 {
     public class ReDoMusicDbContext : DbContext
     {

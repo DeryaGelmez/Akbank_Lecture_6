@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\derya\\Desktop\\0612\\6.Hafta\\Core\\ReDoMusic.Domain\\ReDoMusic.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\derya\\Documents\\GitHub\\Akbank_Lecture_6\\6.Hafta\\Core\\ReDoMusic.Domain\\ReDoMusic.Domain.csproj",
       "projectName": "ReDoMusic.Domain",
-      "projectPath": "C:\\Users\\derya\\Desktop\\0612\\6.Hafta\\Core\\ReDoMusic.Domain\\ReDoMusic.Domain.csproj",
+      "projectPath": "C:\\Users\\derya\\Documents\\GitHub\\Akbank_Lecture_6\\6.Hafta\\Core\\ReDoMusic.Domain\\ReDoMusic.Domain.csproj",
       "packagesPath": "C:\\Users\\derya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\derya\\Desktop\\0612\\6.Hafta\\Core\\ReDoMusic.Domain\\obj\\",
+      "outputPath": "C:\\Users\\derya\\Documents\\GitHub\\Akbank_Lecture_6\\6.Hafta\\Core\\ReDoMusic.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\derya\\AppData\\Roaming\\NuGet\\NuGet.Config",

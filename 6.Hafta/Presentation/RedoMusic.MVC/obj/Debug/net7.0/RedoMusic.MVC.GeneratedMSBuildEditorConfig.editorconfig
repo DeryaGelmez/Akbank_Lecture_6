@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Presentation\RedoMusic.MVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/derya/Documents/GitHub/Akbank_Lecture_6/6.Hafta/Presentation/RedoMusic.MVC/Views/Brand/AddBrand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcQWRkQnJhbmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/derya/Documents/GitHub/Akbank_Lecture_6/6.Hafta/Presentation/RedoMusic.MVC/Views/Brand/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/derya/Documents/GitHub/Akbank_Lecture_6/6.Hafta/Presentation/RedoMusic.MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,17 @@
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\bin\Debug\net7.0\RedoMusic.Persistence.deps.json
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\bin\Debug\net7.0\RedoMusic.Persistence.runtimeconfig.json
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\bin\Debug\net7.0\RedoMusic.Persistence.dll
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\bin\Debug\net7.0\RedoMusic.Persistence.pdb
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Domain.dll
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\bin\Debug\net7.0\ReDoMusic.Domain.pdb
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.csproj.AssemblyReference.cache
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.AssemblyInfoInputs.cache
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.AssemblyInfo.cs
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.csproj.CopyComplete
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.dll
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\refint\RedoMusic.Persistence.dll
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.pdb
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\RedoMusic.Persistence.genruntimeconfig.cache
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Infrastructure\RedoMusic.Persistence\obj\Debug\net7.0\ref\RedoMusic.Persistence.dll

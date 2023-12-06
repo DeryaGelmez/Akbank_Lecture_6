@@ -1,0 +1,13 @@
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Core\ReDoMusic.Domain\bin\Debug\net7.0\ReDoMusic.Domain.deps.json
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Core\ReDoMusic.Domain\bin\Debug\net7.0\ReDoMusic.Domain.dll
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Core\ReDoMusic.Domain\bin\Debug\net7.0\ReDoMusic.Domain.pdb
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Core\ReDoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Core\ReDoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.AssemblyInfoInputs.cache
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Core\ReDoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.AssemblyInfo.cs
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Core\ReDoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.csproj.CoreCompileInputs.cache
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Core\ReDoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.dll
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Core\ReDoMusic.Domain\obj\Debug\net7.0\refint\ReDoMusic.Domain.dll
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Core\ReDoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.pdb
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Core\ReDoMusic.Domain\obj\Debug\net7.0\ref\ReDoMusic.Domain.dll
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Core\ReDoMusic.Domain\bin\Debug\net7.0\ReDoMusic.Domain.runtimeconfig.json
+C:\Users\derya\Documents\GitHub\Akbank_Lecture_6\6.Hafta\Core\ReDoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.genruntimeconfig.cache

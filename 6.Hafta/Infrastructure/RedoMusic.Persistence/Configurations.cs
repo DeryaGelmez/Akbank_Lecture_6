@@ -20,7 +20,7 @@ namespace RedoMusic.Persistence
 
             configurationManager.SetBasePath(path);
             configurationManager.AddJsonFile("Private_Informations.json");
-            return configurationManager.GetSection("ConnectionStrings:PostgreSQL").Value;
+            return configurationManager.GetSection(key).Value;
         }
 
     }

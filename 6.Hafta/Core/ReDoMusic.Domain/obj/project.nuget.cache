@@ -1,8 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "by8dkgEs1c+/gRMXO/4sJWi+88KSdXP1JCrGyj9RSPwULHMJnhhpCzk9XNYDny11EP/IHrDpzNFoQ+x1m48dPA==",
+  "dgSpecHash": "v0CM4ogcnOysb6jM3dP45XrgOnvSnZ+4Mf/v6XCZgjR+b0x57WKwX/jDtAFnRuFuepHqHDIDuHHstlXPFzbtlg==",
   "success": true,
   "projectFilePath": "C:\\Users\\derya\\Documents\\GitHub\\Akbank_Lecture_6\\6.Hafta\\Core\\ReDoMusic.Domain\\ReDoMusic.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\derya\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.12\\microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.12\\microsoft.entityframeworkcore.analyzers.7.0.12.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.12\\microsoft.entityframeworkcore.design.7.0.12.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.12\\microsoft.entityframeworkcore.relational.7.0.12.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
